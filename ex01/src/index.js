@@ -1,5 +1,5 @@
 function reusableFunction() {
   console.log("Hi Padawan!");
 }
-reusableFunction("Hi Padawan!");
+reusableFunction();
 module.exports = reusableFunction;
